@@ -88,7 +88,7 @@ bintray {
     pkg(delegateClosureOf<BintrayExtension.PackageConfig> {
         repo = "repo"
         name = project.name
-        userOrg = "alexbogovich"
+        userOrg = "besttoolbars"
         websiteUrl = "https://github.com/Besttoolbars/$name"
         githubRepo = "besttoolbars/$name"
         vcsUrl = "https://github.com/Besttoolbars/$name"
