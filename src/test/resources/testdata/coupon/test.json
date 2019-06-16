@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "status": "active",
+      "rating": "0.00",
+      "date_start": "2019-03-13T00:00:00",
+      "campaign": {
+        "id": 16040,
+        "name": "Brionity",
+        "site_url": "https://brionity.com/"
+      },
+      "short_name": "Распродажа туфель! Cкидка до 70% + 40%!",
+      "exclusive": false,
+      "name": "Распродажа туфель! Cкидка до 70% + 40%!",
+      "date_end": "2019-05-31T23:59:00",
+      "promocode": "НЕ НУЖЕН",
+      "id": 236339,
+      "regions": [
+        "RU"
+      ],
+      "discount": "70%",
+      "types": [
+        {
+          "id": 2,
+          "name": "Скидка на заказ"
+        }
+      ],
+      "image": "http://cdn.admitad.com/campaign/images/2016/10/06/06963120ff90c4564ff4b765e20c140d.jpg",
+      "frameset_link": "",
+      "goto_link": "https://ad.admitad.com/g/su6romn4gs162aae1f4e09008834d3/?i=3",
+      "species": "action",
+      "categories": [
+        {
+          "id": 3,
+          "name": "Аксессуары и сумки"
+        },
+        {
+          "id": 4,
+          "name": "Обувь "
+        },
+        {
+          "id": 5,
+          "name": "Одежда"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "_meta": {
+    "count": 2941,
+    "limit": 2,
+    "offset": 0
+  }
+}

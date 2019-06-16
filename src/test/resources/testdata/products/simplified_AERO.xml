@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-01-30 16:05">
+    <shop>
+        <name>AERO: столы и стулья</name>
+        <company>AERO: столы и стулья</company>
+        <url>https://www.mebelaero.ru</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="22">Товары</category>
+            <category id="22195" parentId="22">Столы</category>
+            <category id="22190" parentId="22195">Кухонные столы</category>
+            <category id="2255" parentId="22195">Столы деревянные</category>
+            <category id="22188" parentId="22195">Столы лакированные</category>
+            <category id="22108" parentId="22195">Столы стеклянные</category>
+        </categories>
+        <local_delivery_cost>500</local_delivery_cost>
+        <cpa>0</cpa>
+        <offers>
+            <offer available="true" id="8035">
+                <categoryId>2265</categoryId>
+                <currencyId>RUB</currencyId>
+                <delivery>true</delivery>
+                <description>табак</description>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <model>B70</model>
+                <modified_time>1539113811</modified_time>
+                <name>Стул для гостиной металлический B70 – табак</name>
+                <param name="Регулировка высоты">Без регулировки</param>
+                <param name="РАЗМЕР: Высота до сидения">47</param>
+                <param name="Вес (кг)">7.625</param>
+                <picture>https://www.mebelaero.ru/upload/iblock/c51/c51d6c56da31a792b613538f86d67d31.jpg</picture>
+                <picture>https://www.mebelaero.ru/upload/iblock/0d1/0d165d4a5b93fc585eb24c8de7b78d9a.jpg</picture>
+                <price>6990</price>
+                <sales_notes>Доставка осуществляется после 100% предоплаты!</sales_notes>
+                <url>https://ad.admitad.com/g/fj77fd2gew162aae1f4e9bc0ba5f2e/?i=5&amp;ulp=https%3A%2F%2Fwww.mebelaero.ru%2Fcatalog%2Ftovar%2Fstul-b70-tob%2F</url>
+                <vendor>AERO</vendor>
+                <vendorCode>8035</vendorCode>
+            </offer>
+            <offer available="true" id="8362">
+                <categoryId>2265</categoryId>
+                <currencyId>RUB</currencyId>
+                <delivery>true</delivery>
+                <description>белый</description>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <model>B70</model>
+                <modified_time>1541111177</modified_time>
+                <name>Стул кухонный металлический B70 – белый</name>
+                <param name="Регулировка высоты">Без регулировки</param>
+                <param name="РАЗМЕР: Высота до сидения">47</param>
+                <param name="Вес (кг)">7.625</param>
+                <picture>https://www.mebelaero.ru/upload/iblock/f8e/f8ea9da04a44336ff097b26434fbdd2e.jpg</picture>
+                <picture>https://www.mebelaero.ru/upload/iblock/df0/df06e9661edfd6ac5c881cb5cdd1d9e7.jpg</picture>
+                <price>6990</price>
+                <sales_notes>Доставка осуществляется после 100% предоплаты!</sales_notes>
+                <url>https://ad.admitad.com/g/fj77fd2gew162aae1f4e9bc0ba5f2e/?i=5&amp;ulp=https%3A%2F%2Fwww.mebelaero.ru%2Fcatalog%2Ftovar%2Fstul-b70-w%2F</url>
+                <vendor>AERO</vendor>
+                <vendorCode>8362</vendorCode>
+            </offer>
+            <offer available="true" id="43523">
+                <categoryId>2265</categoryId>
+                <currencyId>RUB</currencyId>
+                <delivery>true</delivery>
+                <description>латте</description>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <model>B805</model>
+                <modified_time>1548866473</modified_time>
+                <name>Стул для гостиной металлический B805 – латте</name>
+                <param name="Цвет">латте</param>
+                <param name="Цвет каркаса">Черный</param>
+                <param name="Цвет обивки">Бежевый</param>
+                <param name="РАЗМЕР: Длина (глубина)">50</param>
+                <picture>https://www.mebelaero.ru/upload/iblock/65f/65f68ce2664c5aa6f592f9595e5f4d4a.jpg</picture>
+                <picture>https://www.mebelaero.ru/upload/iblock/b4e/b4ee49e98d9e855bd7c5a76ba0a6af6a.jpg</picture>
+                <price>9290</price>
+                <sales_notes>Доставка осуществляется после 100% предоплаты!</sales_notes>
+                <url>https://ad.admitad.com/g/fj77fd2gew162aae1f4e9bc0ba5f2e/?i=5&amp;ulp=https%3A%2F%2Fwww.mebelaero.ru%2Fcatalog%2Ftovar%2Fstul-b805-cow-latte%2F</url>
+                <vendor>AERO</vendor>
+                <vendorCode>43523</vendorCode>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

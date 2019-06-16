@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-01-31 13:29">
+    <shop>
+        <name>RICHE</name>
+        <company>RICHE COSMETICS</company>
+        <url>http://riche.me</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="7" parentId="">Эффективные комплексы</category>
+            <category id="45" parentId="2">Масло-сыворотка</category>
+            <category id="22" parentId="1">Масла для тела</category>
+            <category id="20" parentId="1">Массажные щётки</category>
+            <category id="28" parentId="2">Маски</category>
+            <category id="3" parentId="">Уход за волосами</category>
+            <category id="43" parentId="1">Молочко для тела</category>
+            <category id="4" parentId="1">Загар и солярий</category>
+            <category id="25" parentId="1">Гели для душа</category>
+            <category id="37" parentId="2">Гидрофильные масла</category>
+            <category id="36" parentId="2">Софтнеры</category>
+            <category id="23" parentId="1">Мыло ручной работы</category>
+            <category id="24" parentId="1">Соль для ванн</category>
+            <category id="33" parentId="3">Шампуни</category>
+            <category id="21" parentId="1">Скрабы для тела</category>
+            <category id="30" parentId="2">Гели для умывания</category>
+            <category id="8" parentId="">Уходовые масла</category>
+            <category id="34" parentId="3">Кондиционеры</category>
+            <category id="32" parentId="3">Масла для волос</category>
+            <category id="26" parentId="2">Масло для лица</category>
+        </categories>
+        <offers>
+            <offer available="true" bid="979" id="979">
+                <adult>false</adult>
+                <barcode>BC/05/SH/OIL/150</barcode>
+                <categoryId>22</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Масло-сияние подарит твоей коже волшебное мерцание, одновременно выравнивая тон, увлажняя,
+                    а также делая ее более гладкой и нежной.
+                </description>
+                <model>Масло Шиммер</model>
+                <modified_time>1543254701</modified_time>
+                <name>Масло Шиммер</name>
+                <param name="Состав">Масло марулы, Масло тукума, Масло амаранта, Масло арганы, Масло жожоба, Витамин Е
+                    (токоферол), Природная минеральная слюда (мика), Сквалан оливковый, Oleosoft-4
+                </param>
+                <param name="Область применения">Лицо, Ноги, Руки, Тело</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/814/shim_oil.jpg</picture>
+                <price>1690</price>
+                <store>true</store>
+                <typePrefix>Масла для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmasla-dlya-tela%2Fmaslo-shimmer%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>22</vendorCode>
+            </offer>
+            <offer available="true" bid="4" id="4">
+                <adult>false</adult>
+                <barcode>BC/04/DMB/CAC/210</barcode>
+                <categoryId>20</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Отшелушивает, улучшает кровообращение, борется с целлюлитом, оздоравливает кожные покровы,
+                    заметно омолаживает и подтягивает контуры тела.
+                </description>
+                <model>Дренажная щётка для сухого массажа</model>
+                <modified_time>1543254701</modified_time>
+                <name>Дренажная щётка для сухого массажа</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Волокна мексиканского кактуса, Древесина бука</param>
+                <param name="Область применения">Ноги, Руки, Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/153/brush_classic.jpg</picture>
+                <price>1590</price>
+                <store>true</store>
+                <typePrefix>Массажные щётки</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmassazhnye-shchyetki%2Fdrenazhnaya-shchyetka-dlya-sukhogo-massazha%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>20</vendorCode>
+            </offer>
+            <offer available="true" bid="1219" id="1219">
+                <adult>false</adult>
+                <barcode>BC/08/BW/ROS</barcode>
+                <categoryId>25</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Максимум питательной  и ароматной пользы от «королевы цветов». Подходит для ежедневного
+                    использования. Не содержит SLS, силиконы и парабены.
+                </description>
+                <model>Гель для душа Чистая Роза (250 мл)</model>
+                <modified_time>1543254701</modified_time>
+                <name>Гель для душа Чистая Роза (250 мл)</name>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">250</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/892/wash_rose.jpg</picture>
+                <price>990</price>
+                <store>true</store>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fgeli-dlya-dusha%2Fgel-dlya-dusha-chistaya-roza%2F</url>
+                <vendor>RICHE</vendor>
+            </offer>
+            <offer available="true" bid="267" id="267">
+                <adult>false</adult>
+                <barcode>FC/13/FC/MAT/150</barcode>
+                <categoryId>30</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Мягкий пенящийся гель с натуральными компонентами глубоко очищает кожу и поры от
+                    загрязнений, идеально подходит для ухода за жирной и комбинированной кожей.
+                </description>
+                <model>Матирующий гель для умывания</model>
+                <modified_time>1543254701</modified_time>
+                <name>Матирующий гель для умывания</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Экстракт земляники, Масло макадамии, Масло жожоба, Эфирное масло грейпфрута</param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/827/facial_matty.jpg</picture>
+                <price>1190</price>
+                <store>true</store>
+                <typePrefix>Гели для умывания</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fgeli-dlya-umyvaniya%2Fmatiruyushchiy-gel-dlya-umyvaniya%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>30</vendorCode>
+            </offer>
+            <offer available="true" bid="266" id="266">
+                <adult>false</adult>
+                <barcode>FC/13/FC/REF/150</barcode>
+                <categoryId>30</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Воздушный гель обеспечивает эффективный уход за кожей во время очищения, подходит
+                    обладателям сухой и чувствительной кожи.
+                </description>
+                <model>Освежающий гель для умывания</model>
+                <modified_time>1543254701</modified_time>
+                <name>Освежающий гель для умывания</name>
+                <param name="Состав">Экстракт земляники, Миндальное масло, Масло персиковых косточек, Эфирное масло
+                    розы
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/edb/facial_refr.jpg</picture>
+                <price>1190</price>
+                <store>true</store>
+                <typePrefix>Гели для умывания</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fgeli-dlya-umyvaniya%2Fosvezhayushchiy-gel-dlya-umyvaniya%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>30</vendorCode>
+            </offer>
+            <offer available="true" bid="477" id="477">
+                <adult>false</adult>
+                <barcode>BC/10/BS/LGE/680</barcode>
+                <categoryId>24</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Самое «женское» средство, мягко обновляющее тело, кожные покровы и душу. Ароматы герани и
+                    лаванды восстановят спокойное и благожелательное психологическое состояние, придадут необходимую
+                    уверенность в себе. Для чувствительной и сухой кожи.
+                </description>
+                <model>Соль для ванн Лаванда + Герань</model>
+                <modified_time>1543254701</modified_time>
+                <name>Соль для ванн Лаванда + Герань</name>
+                <param name="Состав">Гималайская розовая соль, Розовая глина, Экстракт лаванды, Экстракт герани, Эфирное
+                    масло лаванды, Эфирное масло герани
+                </param>
+                <param name="Область применения">Ноги, Руки, Тело</param>
+                <param name="Вес" unit="г">680</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/b5e/salt_geran.jpg</picture>
+                <price>1090</price>
+                <store>true</store>
+                <typePrefix>Соль для ванн</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fsol-dlya-vann%2Fsol-dlya-vann-vosstanovlenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>24</vendorCode>
+            </offer>
+            <offer available="true" bid="479" id="479">
+                <adult>false</adult>
+                <barcode>BC/10/BS/BDN/680</barcode>
+                <categoryId>24</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Увлажнение, смягчение и регенерация кожных покровов, гарантированное обновление души и тела
+                    с помощью мягкого, нежного и действенного средства. Для сухой и уставшей кожи.
+                </description>
+                <model>Соль для ванн Голубая ромашка + Нероли</model>
+                <modified_time>1543254701</modified_time>
+                <name>Соль для ванн Голубая ромашка + Нероли</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Гималайская розовая соль, Розовая глина, Экстракт ромашки, Эфирное масло голубой
+                    ромашки, Эфирное масло нероли
+                </param>
+                <param name="Область применения">Лицо, Руки, Тело</param>
+                <param name="Вес" unit="г">680</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/df4/salt_neroli.jpg</picture>
+                <price>1090</price>
+                <store>true</store>
+                <typePrefix>Соль для ванн</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fsol-dlya-vann%2Fsol-dlya-vann-obnovlenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>24</vendorCode>
+            </offer>
+            <offer available="true" bid="924" id="924">
+                <adult>false</adult>
+                <barcode>FC/15/AM/SOL/30</barcode>
+                <categoryId>28</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Для экстренного снятия раздражений, покраснений, ощущения сухости. Создана на основе 100%
+                    натуральных ингредиентов. Просто наносить, легко снимать.
+                </description>
+                <model>Успокаивающая альгинатная маска</model>
+                <modified_time>1543254701</modified_time>
+                <name>Успокаивающая альгинатная маска</name>
+                <param name="Состав">Альгинат натрия, Экстракт критмума, Сок алоэ вера, Витамин Е (токоферол)</param>
+                <param name="Область применения">Лицо</param>
+                <param name="Вес" unit="г">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/0c0/alginate_solace.jpg</picture>
+                <price>490</price>
+                <store>true</store>
+                <typePrefix>Маски</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaski%2Fuspokaivayushchaya-alginatnaya-maska%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>28</vendorCode>
+            </offer>
+            <offer available="true" bid="925" id="925">
+                <adult>false</adult>
+                <barcode>FC/15/AM/MMO/30</barcode>
+                <categoryId>28</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Для глубокого питания и увлажнения обезвоженной кожи. Создана на основе 100% натуральных
+                    ингредиентов. Просто наносить, легко снимать.
+                </description>
+                <model>Увлажняющая альгинатная маска</model>
+                <modified_time>1543254701</modified_time>
+                <name>Увлажняющая альгинатная маска</name>
+                <param name="Состав">Альгинат натрия, Масло рисовых отрубей, Экстракт критмума, Витамин Е (токоферол)
+                </param>
+                <param name="Область применения">Лицо, Ноги, Руки</param>
+                <param name="Вес" unit="г">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/d8c/alginate_moist.jpg</picture>
+                <price>490</price>
+                <store>true</store>
+                <typePrefix>Маски</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaski%2Fuvlazhnyayushchaya-alginatnaya-maska%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>28</vendorCode>
+            </offer>
+            <offer available="true" bid="2197" id="2197">
+                <adult>false</adult>
+                <barcode>FC/15/AM/PUR/30</barcode>
+                <categoryId>28</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Создана для эффективного очищения и восстановления жирной и проблемной кожи. Верни своему
+                    лицу здоровое сияние.
+                </description>
+                <model>Очищающая альгинатная маска</model>
+                <modified_time>1543254701</modified_time>
+                <name>Очищающая альгинатная маска</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Соевое масло, Древесный уголь, Альгинат натрия</param>
+                <param name="Область применения">Лицо</param>
+                <param name="Вес" unit="г">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/4b0/alginate_purif.jpg</picture>
+                <price>490</price>
+                <store>true</store>
+                <typePrefix>Маски</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaski%2Fochishchayushchaya-alginatnaya-maska%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>28</vendorCode>
+            </offer>
+            <offer available="true" bid="910" id="910">
+                <adult>false</adult>
+                <barcode>FC/16/EM/IDA/50</barcode>
+                <categoryId>28</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Белая маска-эксфолиант с натуральной глиной создана для естественного пилинга в одном
+                    комплексе с увлажнением и смягчением кожи. Помогает бороться с шелушением и чувством стянутости.
+                    Верни своему лицу здоровое сияние!
+                </description>
+                <model>Маска-эксфолиант с белой глиной</model>
+                <modified_time>1543254701</modified_time>
+                <name>Маска-эксфолиант с белой глиной</name>
+                <param name="Состав">Экстракт фукуса, Экстракт малины, Экстракт алоэ вера, Каолин, Абрикосовый воск,
+                    Оливковое масло, Масло ромашки, Экстракт улиточного секрета, Сок алоэ вера, Гиалуроновая кислота,
+                    Эфирное масло пачули, Витамин С, Витамин Е (токоферол)
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">50</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/430/exmask_damp.jpg</picture>
+                <price>2390</price>
+                <store>true</store>
+                <typePrefix>Маски</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaski%2Fmaska-eksfoliant-s-beloy-glinoy%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>28</vendorCode>
+            </offer>
+            <offer available="true" bid="913" id="913">
+                <adult>false</adult>
+                <barcode>FC/16/EM/FLI/50</barcode>
+                <categoryId>28</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Красная маска-эксфолиант с натуральной глиной создана для эффективного антивозрастного
+                    пилинга и профилактики преждевременного старения.
+                </description>
+                <model>Маска-эксфолиант с красной глиной</model>
+                <modified_time>1543254701</modified_time>
+                <name>Маска-эксфолиант с красной глиной</name>
+                <param name="Состав">Масло виноградных косточек, Абрикосовый воск, Тростниковый сахар, Масло арганы,
+                    Облепиховое масло, Масло конопли, Сок алоэ вера, Эфирное масло лаванды, Эфирное масло мелиссы,
+                    Витамин Е (токоферол)
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">50</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/dcb/exmask_lift.jpg</picture>
+                <price>2390</price>
+                <store>true</store>
+                <typePrefix>Маски</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaski%2Fmaska-eksfoliant-s-krasnoy-glinoy%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>28</vendorCode>
+            </offer>
+            <offer available="true" bid="2212" id="2212">
+                <adult>false</adult>
+                <barcode>BC/04/DMB/OAK/210</barcode>
+                <categoryId>20</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Новая дренажная щетка из прочной древесины дуба и волокон мексиканского кактуса поможет
+                    тебе безопасно и эффективно совершенствовать кожу день за днем. Благодаря своей натуральности она
+                    прослужит тебе долгое время!
+                </description>
+                <model>Дренажная щётка для сухого массажа. Дуб</model>
+                <modified_time>1543254701</modified_time>
+                <name>Дренажная щётка для сухого массажа. Дуб</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Волокна мексиканского кактуса, Древесина дуба</param>
+                <param name="Область применения">Ноги, Руки, Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/209/brush_oak.jpg</picture>
+                <price>1790</price>
+                <store>true</store>
+                <typePrefix>Массажные щётки</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmassazhnye-shchyetki%2Fdrenazhnaya-shchyetka-dlya-sukhogo-massazha-dub%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>20</vendorCode>
+            </offer>
+            <offer available="true" bid="226" id="226">
+                <adult>false</adult>
+                <barcode>BO/21/PO/AML/100</barcode>
+                <categoryId>8</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>100% натуральное масло амлы холодного отжима.</description>
+                <model>Масло Амлы</model>
+                <modified_time>1543254701</modified_time>
+                <name>Масло Амлы</name>
+                <param name="Область применения">Волосы, Лицо, Ноги, Тело</param>
+                <param name="Объём" unit="мл">100</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/d43/uh_amla_oil.jpg</picture>
+                <price>790</price>
+                <store>true</store>
+                <typePrefix>Уходовые масла</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Fbazovye-masla%2Fmaslo-amly%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>8</vendorCode>
+            </offer>
+            <offer available="true" bid="20" id="20">
+                <adult>false</adult>
+                <barcode>BC/09/SC/BLU/130</barcode>
+                <categoryId>23</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Очищает чувствительную и сухую кожу, не пересушивая ее, снимает воспаление и увлажняет.
+                </description>
+                <model>Натуральное мыло с голубой глиной</model>
+                <modified_time>1543321953</modified_time>
+                <name>Натуральное мыло с голубой глиной</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло жожоба, Масло авокадо, Эфирное масло лаванды, Голубая глина</param>
+                <param name="Область применения">Лицо, Ноги, Руки, Тело</param>
+                <param name="Вес" unit="г">130</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/650/soap_blue.jpg</picture>
+                <price>590</price>
+                <store>true</store>
+                <typePrefix>Мыло ручной работы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmylo-ruchnoy-raboty%2Fnaturalnoe-mylo-s-goluboy-glinoy%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>23</vendorCode>
+            </offer>
+            <offer available="true" bid="21" id="21">
+                <adult>false</adult>
+                <barcode>BC/09/SC/BLA/130</barcode>
+                <categoryId>23</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Глубоко очищает поры кожи, устраняя излишнюю жирность, оказывает detox-эффект.
+                </description>
+                <model>Натуральное detox-мыло с черной глиной</model>
+                <modified_time>1543321953</modified_time>
+                <name>Натуральное detox-мыло с черной глиной</name>
+                <param name="Состав">Масло виноградных косточек, Масло авокадо, Масло макадамии, Черная глина, Эфирное
+                    масло грейпфрута
+                </param>
+                <param name="Область применения">Лицо, Ноги, Руки, Тело</param>
+                <param name="Вес" unit="г">130</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/1c7/soap_black.jpg</picture>
+                <price>590</price>
+                <store>true</store>
+                <typePrefix>Мыло ручной работы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmylo-ruchnoy-raboty%2Fnaturalnoe-detox-mylo-s-chernoy-glinoy%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>23</vendorCode>
+            </offer>
+            <offer available="true" bid="507" id="507">
+                <adult>false</adult>
+                <barcode>BC/09/SC/PIN/130</barcode>
+                <categoryId>23</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Бережно очищает и тонизирует зрелую кожу, обогащает минералами и маслами</description>
+                <model>Натуральное мыло с красной глиной</model>
+                <modified_time>1543321953</modified_time>
+                <name>Натуральное мыло с красной глиной</name>
+                <param name="Состав">Масло авокадо, Масло персиковых косточек, Эфирное масло розового дерева, Масло
+                    макадамии, Красная глина
+                </param>
+                <param name="Область применения">Лицо, Руки, Тело</param>
+                <param name="Вес" unit="г">130</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/197/soap_red.jpg</picture>
+                <price>590</price>
+                <store>true</store>
+                <typePrefix>Мыло ручной работы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmylo-ruchnoy-raboty%2Fnaturalnoe-mylo-s-krasnoy-glinoy%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>23</vendorCode>
+            </offer>
+            <offer available="true" bid="1731" id="1731">
+                <adult>false</adult>
+                <barcode>BC/12/TO/BRA/150/SPF8</barcode>
+                <categoryId>4</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Активный комплекс из масел компенсирует последствия пребывания на солнце и защищает кожу от
+                    UVA и UVB - лучей.
+                </description>
+                <model>Масло для загара Голубая малина SPF8</model>
+                <modified_time>1543598566</modified_time>
+                <name>Масло для загара Голубая малина SPF8</name>
+                <param name="Состав">Вытяжка из кокосового масла, Масло конопли, Масло виноградных косточек, Масло
+                    жожоба, Масло семян малины, Витамин Е (токоферол)
+                </param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/a9e/tanning_blue_8.jpg</picture>
+                <price>1890</price>
+                <store>true</store>
+                <typePrefix>Загар и солярий</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fzagar-i-solyariy%2Fmaslo-dlya-zagara-golubaya-malina-spf8%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>4</vendorCode>
+            </offer>
+            <offer available="true" bid="29" id="29">
+                <adult>false</adult>
+                <barcode>BC/12/TO/WAT/150/SPF8</barcode>
+                <categoryId>4</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Защищает и питает зрелую и чувствительную кожу в солярии и на пляже. Обеспечивает коже
+                    увлажненность, упругость и ровный цвет загара.
+                </description>
+                <model>Масло для загара Арбуз SPF8</model>
+                <modified_time>1543598566</modified_time>
+                <name>Масло для загара Арбуз SPF8</name>
+                <param name="Состав">Масло семян арбуза, Масло виноградных косточек, Масло кокоса, Масло семян малины,
+                    Витамин Е (токоферол), Масло брусники
+                </param>
+                <param name="Область применения">Ноги, Руки, Тело</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/d7b/tanning_water_8.jpg</picture>
+                <price>1890</price>
+                <store>true</store>
+                <typePrefix>Загар и солярий</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fzagar-i-solyariy%2Fmaslo-dlya-zagara-arbuz%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>4</vendorCode>
+            </offer>
+            <offer available="true" bid="2003" id="2003">
+                <adult>false</adult>
+                <barcode>BC/12/TO/BRA/150/SPF20</barcode>
+                <categoryId>4</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Готовит кожу к более длительному пребыванию под жарким солнцем. Надежно защищает от
+                    излишнего УФ-излучения. Насыщает кожу витаминами и жирными кислотами, делая ее более увлажненной и
+                    нежной. Делает загар более ровным. Подходит для нормальной и комбинированной кожи.
+                </description>
+                <model>Масло для загара Голубая малина SPF20</model>
+                <modified_time>1543598566</modified_time>
+                <name>Масло для загара Голубая малина SPF20</name>
+                <param name="Состав">Масло семян малины, Масло конопли, Масло виноградных косточек, Масло жожоба, Масло
+                    кокоса
+                </param>
+                <param name="Область применения">Лицо, Ноги, Руки, Тело</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/a61/tanning_blue_20.jpg</picture>
+                <price>2190</price>
+                <store>true</store>
+                <typePrefix>Загар и солярий</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fzagar-i-solyariy%2Fmaslo-dlya-zagara-golubaya-malina-spf20%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>4</vendorCode>
+            </offer>
+            <offer available="true" bid="2001" id="2001">
+                <adult>false</adult>
+                <barcode>BC/12/TO/WAT/150/SPF20</barcode>
+                <categoryId>4</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Надежно защищает кожу от излишнего УФ-излучения, питает, увлажняет ее и делает более
+                    упругой. Масло поможет получить ровный и нежный загар. Подходит для нормальной, зрелой и
+                    чувствительной кожи.
+                </description>
+                <model>Масло для загара Арбуз SPF20</model>
+                <modified_time>1543598566</modified_time>
+                <name>Масло для загара Арбуз SPF20</name>
+                <param name="Состав">Масло семян малины, Масло кокоса, Масло семян арбуза, Масло виноградных косточек,
+                    Витамин Е (токоферол)
+                </param>
+                <param name="Область применения">Лицо, Ноги, Тело</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/c3a/tanning_water_20.jpg</picture>
+                <price>2190</price>
+                <store>true</store>
+                <typePrefix>Загар и солярий</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fzagar-i-solyariy%2Fmaslo-dlya-zagara-arbuz-spf20%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>4</vendorCode>
+            </offer>
+            <offer available="true" bid="919" id="919">
+                <adult>false</adult>
+                <barcode>FC/15/AM/ULI/30</barcode>
+                <categoryId>28</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Для сверхэффективной подтяжки утратившей тонус кожи. Создана на основе 100% натуральных
+                    ингредиентов. Просто наносить, легко снимать.
+                </description>
+                <model>Альгинатная маска с лифтинг-эффектом</model>
+                <modified_time>1543928813</modified_time>
+                <name>Альгинатная маска с лифтинг-эффектом</name>
+                <param name="Состав">Альгинат натрия, Масло арганы, Экстракт критмума, Витамин Е (токоферол),
+                    Гиалуроновая кислота
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Вес" unit="г">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/37b/alginate_lift.jpg</picture>
+                <price>490</price>
+                <store>true</store>
+                <typePrefix>Маски</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaski%2Falginatnaya-maska-s-lifting-effektom%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>28</vendorCode>
+            </offer>
+            <offer available="true" bid="914" id="914">
+                <adult>false</adult>
+                <barcode>FC/16/EM/ACO/50</barcode>
+                <categoryId>28</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Черная маска-эксфолиант с натуральной глиной создана для решения проблем с воспалениями,
+                    избыточного блеска, расширенных пор, нездорового цвета лица.
+                </description>
+                <model>Маска-эксфолиант с чёрной глиной</model>
+                <modified_time>1543928813</modified_time>
+                <name>Маска-эксфолиант с чёрной глиной</name>
+                <param name="Состав">Экстракт березы, Экстракт алоэ вера, Экстракт бамбука, Экстракт шиповника,
+                    Oleosoft-4, Абрикосовый воск, Древесный уголь, Эфирное масло мяты, Эфирное масло чайного дерева,
+                    Эфирное масло жасмина, Гиалуроновая кислота, Витамин Е (токоферол)
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">50</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/a11/exmask_comedo.jpg</picture>
+                <price>2390</price>
+                <store>true</store>
+                <typePrefix>Маски</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaski%2Fmaska-eksfoliant-s-chyernoy-glinoy%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>28</vendorCode>
+            </offer>
+            <offer available="true" bid="2079" id="2079">
+                <adult>false</adult>
+                <barcode>BC/11/BM/REC/150</barcode>
+                <categoryId>43</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Специалисты RICHE разработали тонизирующее молочко для тела, способное сделать твою кожу
+                    более упругой, подтянутой и привлекательной.
+                </description>
+                <model>Тонизирующее молочко для тела</model>
+                <modified_time>1544116893</modified_time>
+                <name>Тонизирующее молочко для тела</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло арганы, Сок алоэ вера, Масло карите (ши)</param>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/87f/care_recov.jpg</picture>
+                <price>1890</price>
+                <store>true</store>
+                <typePrefix>Молочко для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmolochko-dlya-tela%2Ftoniziruyushchee-molochko-dlya-tela%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>43</vendorCode>
+            </offer>
+            <offer available="true" bid="2077" id="2077">
+                <adult>false</adult>
+                <barcode>BC/11/BM/MOI/150</barcode>
+                <categoryId>43</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>С этим молочком для тела ты получишь нежный и бережный уход. Идеально подобранная рецептура
+                    подарит твоей коже глубокое питание и увлажнение, сделает ее мягкой и бархатистой.
+                </description>
+                <model>Увлажняющее молочко для тела</model>
+                <modified_time>1544116893</modified_time>
+                <name>Увлажняющее молочко для тела</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло виноградных косточек, Масло жожоба, Масло арганы, Гиалуроновая кислота, Сок
+                    алоэ вера
+                </param>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/e10/care_moist.jpg</picture>
+                <price>1890</price>
+                <store>true</store>
+                <typePrefix>Молочко для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmolochko-dlya-tela%2Fuvlazhnyayushchee-molochko-dlya-tela-moisture%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>43</vendorCode>
+            </offer>
+            <offer available="true" bid="2080" id="2080">
+                <adult>false</adult>
+                <barcode>BC/11/BM/VIT/150</barcode>
+                <categoryId>43</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Молочко для тела подходит для ежедневного ухода. Оно обладает нежной консистенцией, которая
+                    быстро впитывается в кожу, придавая чувственный, легкий аромат и делая ее более бархатистой.
+                </description>
+                <model>Питательное молочко для тела</model>
+                <modified_time>1544116893</modified_time>
+                <name>Питательное молочко для тела</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Экстракт алоэ вера, Масло арганы, Масло семян арбуза, Гиалуроновая кислота</param>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">150</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/677/care_vital.jpg</picture>
+                <price>1890</price>
+                <store>true</store>
+                <typePrefix>Молочко для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmolochko-dlya-tela%2Fpitatelnoe-molochko-dlya-tela%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>43</vendorCode>
+            </offer>
+            <offer available="true" bid="614" id="614">
+                <adult>false</adult>
+                <barcode>FC/19/SF/JBR/200</barcode>
+                <categoryId>36</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Освежающая цветочная вода жасмина, в сочетании с полезными маслами, обеспечит бережным
+                    уходом жирную и проблемную кожу, а также поможет в ее восстановлении.
+                </description>
+                <model>Софтнер Жасминовая дымка</model>
+                <modified_time>1544446123</modified_time>
+                <name>Софтнер Жасминовая дымка</name>
+                <param name="Состав">Миндальное масло, гидролат жасмина (цветочная вода жасмина), Сок алоэ вера, Масло
+                    виноградных косточек
+                </param>
+                <param name="Область применения">Волосы, Лицо, Ноги, Руки, Тело</param>
+                <param name="Объём" unit="мл">200</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/ffd/soft_jasm.jpg</picture>
+                <price>1790</price>
+                <store>true</store>
+                <typePrefix>Софтнеры</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fsoftnery%2Fsoftner-zhasminovaya-dymka%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>36</vendorCode>
+            </offer>
+            <offer available="true" bid="478" id="478">
+                <adult>false</adult>
+                <barcode>BC/10/BS/RJA/680</barcode>
+                <categoryId>24</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Невероятно расслабляющая и успокаивающая тело и кожу ванна с ароматами 100% натуральных
+                    эфирных масел и экстрактов розы и жасмина вернет к жизни и обеспечит спокойный сон. Для нормальной и
+                    жирной кожи.
+                </description>
+                <model>Соль для ванн Роза + Жасмин</model>
+                <modified_time>1544700769</modified_time>
+                <name>Соль для ванн Роза + Жасмин</name>
+                <param name="Состав">Гималайская розовая соль, Экстракт розы дамасской, Экстракт жасмина, Эфирное масло
+                    розы, Эфирное масло жасмина, Розовая глина
+                </param>
+                <param name="Область применения">Ноги, Руки, Тело</param>
+                <param name="Вес" unit="г">680</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/c77/salt_jasm.jpg</picture>
+                <price>1090</price>
+                <store>true</store>
+                <typePrefix>Соль для ванн</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fsol-dlya-vann%2Fsol-dlya-vann-rasslablenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>24</vendorCode>
+            </offer>
+            <offer available="true" bid="2505" id="2505">
+                <adult>false</adult>
+                <barcode>BC/07/BO/SEN/100</barcode>
+                <categoryId>22</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Богатый комплекс натуральных масел собран воедино для бережной заботы о твоем теле.
+                </description>
+                <model>Успокаивающее масло для тела</model>
+                <modified_time>1544806946</modified_time>
+                <name>Успокаивающее масло для тела</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло ромашки, Оливковое масло, Масло амаранта, Эфирное масло жасмина, Рапсовое
+                    масло, Масло грецкого ореха, Масло сливовых косточек, Масляный экстракт зверобоя , Масло календулы
+                </param>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">100</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/cf3/boil_sens.jpg</picture>
+                <price>2190</price>
+                <store>true</store>
+                <typePrefix>Масла для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmasla-dlya-tela%2Fuspokaivayushchee-maslo-dlya-tela%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>22</vendorCode>
+            </offer>
+            <offer available="true" bid="2500" id="2500">
+                <adult>false</adult>
+                <barcode>BC/07/BO/HYD/100</barcode>
+                <categoryId>22</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Эксклюзивный комплекс натуральных масел поможет в естественном увлажнении и придаст телу
+                    притягательное сияние.
+                </description>
+                <model>Увлажняющее масло для тела</model>
+                <modified_time>1544806946</modified_time>
+                <name>Увлажняющее масло для тела</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло жожоба, Масло макадамии, Соевое масло, Масло виноградных косточек, Масло
+                    зародышей пшеницы, Масло конопли, Масло авокадо, Масло семян американской ксимении, Масло марулы,
+                    Эфирное масло лаванды, Эфирное масло герани, Масло сливовых косточек, Масло грецкого ореха
+                </param>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">100</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/c85/boil_hydra.jpg</picture>
+                <price>2190</price>
+                <store>true</store>
+                <typePrefix>Масла для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmasla-dlya-tela%2Fuvlazhnyayushchee-maslo-dlya-tela%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>22</vendorCode>
+            </offer>
+            <offer available="true" bid="2504" id="2504">
+                <adult>false</adult>
+                <barcode>BC/07/BO/REV/100</barcode>
+                <categoryId>22</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Живительная сила натуральных масел поможет сделать тело совершенным, повышая тонус и
+                    улучшая эластичность кожи.
+                </description>
+                <model>Тонизирующее масло для тела</model>
+                <modified_time>1544806946</modified_time>
+                <name>Тонизирующее масло для тела</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Соевое масло, Масло рисовых отрубей, Масло виноградных косточек, Масло арганы,
+                    Масло конопли, Облепиховое масло, Масло семян граната, Масло вечерней примулы, Эфирное масло пачули,
+                    Витамин Е (токоферол), Масло грецкого ореха, Масло сливовых косточек, Эфирное масло апельсина
+                </param>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">100</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/21a/boil_reviv.jpg</picture>
+                <price>2190</price>
+                <store>true</store>
+                <typePrefix>Масла для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmasla-dlya-tela%2Ftoniziruyushchee-maslo-dlya-tela%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>22</vendorCode>
+            </offer>
+            <offer available="true" bid="2502" id="2502">
+                <adult>false</adult>
+                <barcode>BC/07/BO/TRE/100</barcode>
+                <categoryId>22</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Питательный микс натуральных масел усилит соблазнительное сияние твоего тела, даря коже
+                    непревзойденную мягкость.
+                </description>
+                <model>Питательное масло для тела</model>
+                <modified_time>1544806946</modified_time>
+                <name>Питательное масло для тела</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло конопли, Масло авокадо, Оливковое масло, Масло семян малины, Масло амаранта,
+                    Масло календулы , Витамин Е (токоферол), Эфирное масло иланг-иланг, Масло абрикосовых косточек,
+                    Рапсовое масло, Масло семян пенника лугового, Масляный экстракт зверобоя , Масло чёрного тмина,
+                    Эфирное масло сандала
+                </param>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">100</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/e42/boil_treat.jpg</picture>
+                <price>2190</price>
+                <store>true</store>
+                <typePrefix>Масла для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fmasla-dlya-tela%2Fpitatelnoe-maslo-dlya-tela%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>22</vendorCode>
+            </offer>
+            <offer available="true" bid="620" id="620">
+                <adult>false</adult>
+                <barcode>FC/14/HO/REC/200</barcode>
+                <categoryId>37</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Для снятия любого макияжа, очищения и оздоровления сухой, чувствительной кожи.
+                </description>
+                <model>Восстанавливающее гидрофильное масло</model>
+                <modified_time>1546024450</modified_time>
+                <name>Восстанавливающее гидрофильное масло</name>
+                <param name="Состав">Масло персиковых косточек, Масло макадамии, Масло авокадо, Масло жожоба, Масло
+                    мурумуру
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">200</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/dc9/hydro_recov.jpg</picture>
+                <price>1790</price>
+                <store>true</store>
+                <typePrefix>Гидрофильные масла</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fgidrofilnoe-maslo%2Fvosstanavlivayushchee-gidrofilnoe-maslo%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>37</vendorCode>
+            </offer>
+            <offer available="true" bid="618" id="618">
+                <adult>false</adult>
+                <barcode>FC/14/HO/REF/200</barcode>
+                <categoryId>37</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Мульти-эффективный уход за жирной и проблемной кожей, демакияж и глубокое очищение пор.
+                </description>
+                <model>Очищающее гидрофильное масло</model>
+                <modified_time>1546024450</modified_time>
+                <name>Очищающее гидрофильное масло</name>
+                <param name="Состав">Масло бораго, Масло жожоба, Масло вечерней примулы, Масло какао, Масло виноградных
+                    косточек
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">200</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/48d/hydro_refin.jpg</picture>
+                <price>1790</price>
+                <store>true</store>
+                <typePrefix>Гидрофильные масла</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fgidrofilnoe-maslo%2Fochishchayushchee-gidrofilnoe-maslo%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>37</vendorCode>
+            </offer>
+            <offer available="true" bid="619" id="619">
+                <adult>false</adult>
+                <barcode>FC/14/HO/REJ/200</barcode>
+                <categoryId>37</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Глубокое очищение пор, эффективное снятие макияжа, рекомендуется для зрелой кожи.
+                </description>
+                <model>Омолаживающее гидрофильное масло</model>
+                <modified_time>1546024450</modified_time>
+                <name>Омолаживающее гидрофильное масло</name>
+                <param name="Состав">Миндальное масло, Масло конопли, Масло зародышей пшеницы, Масло бораго, Масло семян
+                    клубники
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">200</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/707/hydro_rejuv.jpg</picture>
+                <price>1790</price>
+                <store>true</store>
+                <typePrefix>Гидрофильные масла</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fgidrofilnoe-maslo%2Fomolazhivayushchee-gidrofilnoe-maslo%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>37</vendorCode>
+            </offer>
+            <offer available="true" bid="2205" id="2205">
+                <adult>false</adult>
+                <barcode>BC/06/CSB/DIA/250</barcode>
+                <categoryId>21</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Весь мир принадлежит только тебе. Хочешь искупаться в роскоши? Изысканный 100% натуральный
+                    кофейный скраб DIAMOND сделает твою кожу гладкой и упругой, а также порадует роскошным сиянием
+                    бриллианта, что добавит в твой образ немного таинственности.
+                </description>
+                <model>Кофейный скраб для тела Бриллиант</model>
+                <modified_time>1546024450</modified_time>
+                <name>Кофейный скраб для тела Бриллиант</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Тростниковый сахар, Масло персиковых косточек, Гималайская розовая соль, Кофейные
+                    зерна робуста, Масло виноградных косточек, Миндальное масло, Витамин Е (токоферол), Природная
+                    минеральная слюда (мика)
+                </param>
+                <param name="Область применения">Тело</param>
+                <param name="Вес" unit="г">250</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/718/scrub_diamond.jpg</picture>
+                <price>1490</price>
+                <store>true</store>
+                <typePrefix>Скрабы для тела</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fskraby-dlya-tela%2Fkofeynyy-skrab-dlya-tela-brilliant%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>21</vendorCode>
+            </offer>
+            <offer available="true" bid="616" id="616">
+                <adult>false</adult>
+                <barcode>FC/19/SF/RMI/200</barcode>
+                <categoryId>36</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Спрей с ароматом дамасской розы для нормальной, чувствительной и зрелой кожи, поможет в
+                    естественном увлажнении и подарит лицу, телу и волосам свежесть на весь день.
+                </description>
+                <model>Софтнер Розовый Туман</model>
+                <modified_time>1546024450</modified_time>
+                <name>Софтнер Розовый Туман</name>
+                <param name="Состав">Гидролат розы (цветочная вода розы), Сок алоэ вера, Масло арганы, Миндальное масло,
+                    Масло персиковых косточек
+                </param>
+                <param name="Область применения">Волосы, Лицо, Ноги, Руки, Тело</param>
+                <param name="Объём" unit="мл">200</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/57d/soft_rose.jpg</picture>
+                <price>1790</price>
+                <store>true</store>
+                <typePrefix>Софтнеры</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fsoftnery%2Fsoftner-rozovyy-tuman%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>36</vendorCode>
+            </offer>
+            <offer available="true" bid="1218" id="1218">
+                <adult>false</adult>
+                <barcode>BC/08/BW/ALM</barcode>
+                <categoryId>25</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Интенсивно питает и восстанавливает уровень увлажненности кожи. Подходит для ежедневного
+                    использования. Не содержит SLS, силиконы и парабены.
+                </description>
+                <model>Гель для душа Миндаль (250мл)</model>
+                <modified_time>1547035437</modified_time>
+                <name>Гель для душа Миндаль (250мл)</name>
+                <param name="Область применения">Тело</param>
+                <param name="Объём" unit="мл">250</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/f9a/wash_almond.jpg</picture>
+                <price>990</price>
+                <store>true</store>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Ftelo%2Fgeli-dlya-dusha%2Fgel-dlya-dusha-mindal%2F</url>
+                <vendor>RICHE</vendor>
+            </offer>
+            <offer available="true" bid="255" id="255">
+                <adult>false</adult>
+                <barcode>FC/17/PO/30</barcode>
+                <categoryId>26</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Идеален для кожи любого типа и под любой макияж. Ухаживает за лицом в течение всего дня.
+                </description>
+                <model>Масло-праймер под макияж</model>
+                <modified_time>1547035437</modified_time>
+                <name>Масло-праймер под макияж</name>
+                <param name="Состав">Масло персиковых косточек, Масло семян клубники, Масло жожоба, Масло семян граната,
+                    Эфирное масло жасмина, Эфирное масло вербены, Эфирное масло лемонграсса
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/369/fo_primer_new.jpg</picture>
+                <price>1990</price>
+                <store>true</store>
+                <typePrefix>Масло для лица</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaslo-dlya-litsa%2Fmaslo-praymer-dlya-litsa%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>26</vendorCode>
+            </offer>
+            <offer available="true" bid="560" id="560">
+                <adult>false</adult>
+                <barcode>FC/17/FO/30</barcode>
+                <categoryId>26</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Восстанавливает природное здоровье кожи. Увлажняет, смягчает, подтягивает. Только для
+                    сухой, чувствительной и увядающей кожи.
+                </description>
+                <model>Масло Флюид</model>
+                <modified_time>1547574166</modified_time>
+                <name>Масло Флюид</name>
+                <param name="Состав">Сквалан оливковый</param>
+                <param name="Область применения">Волосы, Губы, Лицо</param>
+                <param name="Объём" unit="мл">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/823/fo_fluid_new.jpg</picture>
+                <price>1990</price>
+                <store>true</store>
+                <typePrefix>Масло для лица</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fmaslo-dlya-litsa%2Fmaslo-flyuid%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>26</vendorCode>
+            </offer>
+            <offer available="true" bid="2688" id="2688">
+                <adult>false</adult>
+                <barcode>FC/18/TS/REV/30</barcode>
+                <categoryId>45</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Натуральные компоненты в составе сыворотки помогут в бережном уходе за лицом, избавляя от
+                    чувства дискомфорта, шелушения и зуда, возвращая коже жизненную силу с каждым применением.
+                </description>
+                <model>Сыворотка продвинутое смягчение</model>
+                <modified_time>1548867653</modified_time>
+                <name>Сыворотка продвинутое смягчение</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло семян черной смородины, Масло арганы, Масло амаранта, Масло авокадо, Масло
+                    абрикосовых косточек, Масло зародышей пшеницы, Масляный экстракт зверобоя , Масло семян малины,
+                    Сквалан оливковый, Эфирное масло жасмина, Эфирное масло иланг-иланг, Витамин Е (токоферол)
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/2ac/treat_reviv_new.jpg</picture>
+                <price>2490</price>
+                <store>true</store>
+                <typePrefix>Масло-сыворотка</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fsyvorotki-dlya-litsa%2Fsyvorotka-prodvinutoe-smyagchenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>45</vendorCode>
+            </offer>
+            <offer available="true" bid="2685" id="2685">
+                <adult>false</adult>
+                <barcode>FC/18/TS/MOI/30</barcode>
+                <categoryId>45</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Комплекс натуральных ингредиентов собран воедино для глубокого увлажнения, насыщения кожи
+                    витаминами и необходимыми микроэлементами.
+                </description>
+                <model>Сыворотка интенсивное увлажнение</model>
+                <modified_time>1548867653</modified_time>
+                <name>Сыворотка интенсивное увлажнение</name>
+                <param name="Состав">Масло арганы, Масло марулы, Эфирное масло иланг-иланг, Масло семян американской
+                    ксимении, Сквалан оливковый, Масло виноградных косточек, Масло зародышей пшеницы, Масло конопли,
+                    Масло авокадо, Эфирное масло вербены
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/d31/treat_moist_new.jpg</picture>
+                <price>2490</price>
+                <store>true</store>
+                <typePrefix>Масло-сыворотка</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fsyvorotki-dlya-litsa%2Fsyvorotka-intensivnoe-uvlazhnenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>45</vendorCode>
+            </offer>
+            <offer available="true" bid="2686" id="2686">
+                <adult>false</adult>
+                <barcode>FC/18/TS/PUR/30</barcode>
+                <categoryId>45</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Сыворотка поможет сделать кожу гладкой и мягкой, выравнивая цвет лица и восстанавливая
+                    естественные обменные процессы, благодаря чему неровности и воспаления станут менее заметными.
+                </description>
+                <model>Сыворотка контроль себума и пор</model>
+                <modified_time>1548867653</modified_time>
+                <name>Сыворотка контроль себума и пор</name>
+                <param name="Состав">Масло виноградных косточек, Масло арганы, Масло жожоба, Масло конопли, Масло
+                    авокадо, Рапсовое масло, Оливковое масло, Масло семян малины, Масло амаранта, Масло календулы ,
+                    Масляный экстракт зверобоя , Эфирное масло мандарина, Эфирное масло герани, Витамин Е (токоферол)
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/edf/treat_purif_new.jpg</picture>
+                <price>2490</price>
+                <store>true</store>
+                <typePrefix>Масло-сыворотка</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fsyvorotki-dlya-litsa%2Fsyvorotka-kontrol-sebuma-i-por%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>45</vendorCode>
+            </offer>
+            <offer available="true" bid="2687" id="2687">
+                <adult>false</adult>
+                <barcode>FC/18/TS/ENR/30</barcode>
+                <categoryId>45</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Комплекс природных компонентов поможет вернуть коже тонус, восстановить обменные процессы и
+                    отдалить первые признаки старения, возвращая лицу здоровое сияние.
+                </description>
+                <model>Сыворотка восстановление и обновление</model>
+                <modified_time>1548867653</modified_time>
+                <name>Сыворотка восстановление и обновление</name>
+                <param name="Условия хранения">None</param>
+                <param name="Состав">Масло вечерней примулы, Облепиховое масло, Витамин Е (токоферол), Масло арганы,
+                    Масло амаранта, Масло виноградных косточек, Масло грецкого ореха, Масло сливовых косточек, Масло
+                    семян граната, Эфирное масло апельсина
+                </param>
+                <param name="Область применения">Лицо</param>
+                <param name="Объём" unit="мл">30</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/8aa/treat_enrich_new.jpg</picture>
+                <price>2490</price>
+                <store>true</store>
+                <typePrefix>Масло-сыворотка</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Flitso-i-guby%2Fsyvorotki-dlya-litsa%2Fsyvorotka-vosstanovlenie-i-obnovlenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>45</vendorCode>
+            </offer>
+            <offer available="true" bid="2181" id="2181">
+                <adult>false</adult>
+                <barcode>CS/FBH/008</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>О, эти сладкие, сочные фрукты! Сделай себе фруктовое Spa дома! Теперь это так просто
+                    сделать – понежиться в ванной с масками для лица и волос, очистить и отшелушить тело мандариновым
+                    скрабом, а потом напитать и увлажнить гранатовым маслом. Даешь фруктовый релакс!
+                </description>
+                <model>Spa relax sweet fruit</model>
+                <modified_time>1548918791</modified_time>
+                <name>Spa relax sweet fruit</name>
+                <oldprice>9400</oldprice>
+                <param name="Условия хранения">None</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/ccd/spa_relax_sweet_fruit.jpg</picture>
+                <price>7 990 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fspa-relax-sweet-fruit%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2180" id="2180">
+                <adult>false</adult>
+                <barcode>CS/FBH/007</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Выходные в шоколаде! Теперь это легко осуществить вместе с набором Spa-relax choco taste –
+                    понежиться в ванной с масками для лица и волос, очистить и отшелушить тело шоколадным скрабом, а
+                    потом напитать и увлажнить маслом амаранта. Сделай это в ближайшие выходные!
+                </description>
+                <model>Spa relax choco taste</model>
+                <modified_time>1548918791</modified_time>
+                <name>Spa relax choco taste</name>
+                <oldprice>9400</oldprice>
+                <param name="Условия хранения">None</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/6af/spa_relax_choco_taste.jpg</picture>
+                <price>7 990 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fspa-relax-choco-taste%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2570" id="2570">
+                <adult>false</adult>
+                <barcode>P1</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Полный антицеллюлитный комплекс для достижения оптимального результата. Включает скраб для
+                    тела, дренажную щетку и натуральное масло для тела.
+                </description>
+                <model>Антицеллюлитный комплекс</model>
+                <modified_time>1548918791</modified_time>
+                <name>Антицеллюлитный комплекс</name>
+                <oldprice>5270</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Ноги, Руки, Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/406/atsk_new_sens.jpg</picture>
+                <price>4 480 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fantitsellyulitnyy-kompleks-new%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2689" id="2689">
+                <adult>false</adult>
+                <barcode>CS/H/016</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Комплексный подход поможет решить проблему ослабленных и ломких волос. Набор Укрепление
+                    волос поможет сделать твои локоны густыми и шелковистыми.
+                </description>
+                <model>Набор Укрепление волос</model>
+                <modified_time>1548918791</modified_time>
+                <name>Набор Укрепление волос</name>
+                <oldprice>3280</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Волосы</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/61b/nourishing_hair_set.jpg</picture>
+                <price>2 788 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fnabor-ukreplenie-volos%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2698" id="2698">
+                <adult>false</adult>
+                <barcode>CS/B/025</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Комплексный уходовых средств поможет улучшить эластичность кожи, восстановить тонус и
+                    отдалить первые признаки старения, даря твоему телу здоровое сияние и нежный уход.
+                </description>
+                <model>Набор для поддержания тонуса</model>
+                <modified_time>1548918791</modified_time>
+                <name>Набор для поддержания тонуса</name>
+                <oldprice>4670</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/118/body_set_revive.jpg</picture>
+                <price>3 970 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fnabor-dlya-podderzhaniya-tonusa%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2697" id="2697">
+                <adult>false</adult>
+                <barcode>CS/B/024</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Твое тело нуждается в тотальном увлажнении, чтобы как можно дольше оставаться молодым и
+                    красивым. Комплексный набор уходовых средств поможет добиться желанного результата еще быстрее и
+                    сохранить его надолго.
+                </description>
+                <model>Набор для сухой кожи</model>
+                <modified_time>1548918791</modified_time>
+                <name>Набор для сухой кожи</name>
+                <oldprice>4670</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/3f0/body_set_hydra.jpg</picture>
+                <price>3 970 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fbody-rich%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2696" id="2696">
+                <adult>false</adult>
+                <barcode>CS/B/023</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Подари телу чувство комфорта с комплексом натуральных средств RICHE, с каждым применением
+                    уменьшая шелушения и зуд на коже.
+                </description>
+                <model>Набор для чувствительной кожи</model>
+                <modified_time>1548918791</modified_time>
+                <name>Набор для чувствительной кожи</name>
+                <oldprice>4670</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/88b/body_set_sense.jpg</picture>
+                <price>3 970 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fbody-soft%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2695" id="2695">
+                <adult>false</adult>
+                <barcode>CS/F/022</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Тотальное увлажнение, бережное питание — то, что сделает твою кожу мягкой, упругой и
+                    бархатистой! Комплексный подход ускорит приближение к желанному результату и поможет сохранить его
+                    на долгое время.
+                </description>
+                <model>Увлажнение и комфорт</model>
+                <modified_time>1548918791</modified_time>
+                <name>Увлажнение и комфорт</name>
+                <oldprice>5470</oldprice>
+                <param name="Условия хранения">None</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/ca0/set_for_face_moist.jpg</picture>
+                <price>4 650 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fuvlazhnenie-i-komfort%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2694" id="2694">
+                <adult>false</adult>
+                <barcode>CS/F/021</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Забудь про зуд и шелушение вместе с питательным комплексом для лица. Натуральные уходовые
+                    средства избавят от чувства дискомфорта, восстанавливая обменные процессы и улучшая защитные функции
+                    твоей кожи.
+                </description>
+                <model>Питание и восстановление</model>
+                <modified_time>1548918791</modified_time>
+                <name>Питание и восстановление</name>
+                <oldprice>5470</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Лицо</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/b90/set_for_face_revive.jpg</picture>
+                <price>4 650 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fpitanie-i-vosstanovlenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2693" id="2693">
+                <adult>false</adult>
+                <barcode>CS/F/020</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Оставайся молодой и красивой как можно дольше. Комплексный подход поможет сгладить
+                    небольшие морщины, выровнять цвет лица и отдалить первые признаки старения.
+                </description>
+                <model>Лифтинг и обновление</model>
+                <modified_time>1548918791</modified_time>
+                <name>Лифтинг и обновление</name>
+                <oldprice>5470</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Лицо</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/c1d/set_for_face_enrich.jpg</picture>
+                <price>4 650 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Flifting-i-obnovlenie%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2692" id="2692">
+                <adult>false</adult>
+                <barcode>CS/F/019</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Комплексный подход - лучшее решение для преображения твоей кожи. Набор Stop Problem поможет
+                    уменьшить проявление высыпаний и прыщей, нормализовать обменные процессы, постепенно возвращая лицу
+                    здоровое сияние.
+                </description>
+                <model>Преображение твоей кожи</model>
+                <modified_time>1548918791</modified_time>
+                <name>Преображение твоей кожи</name>
+                <oldprice>5470</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Лицо</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/17c/set_for_face_purify.jpg</picture>
+                <price>4 650 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fpreobrazhenie-tvoey-kozhi%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2691" id="2691">
+                <adult>false</adult>
+                <barcode>CS/H/018</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Комплексный подход поможет решить проблему. Набор Восстановление волос поможет снова
+                    вернуть поврежденным волосам здоровый вид, в том числе и окрашивания!
+                </description>
+                <model>Набор Восстановление волос</model>
+                <modified_time>1548918791</modified_time>
+                <name>Набор Восстановление волос</name>
+                <oldprice>3280</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Волосы</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/c17/regenerating_hair_set.jpg</picture>
+                <price>2 788 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fnabor-vosstanovlenie-volos%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2690" id="2690">
+                <adult>false</adult>
+                <barcode>CS/H/017</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Комплексный подход поможет решить проблему. Набор Блеск и сияние волос поможет сделать твои
+                    локоны сильными и блестящими!
+                </description>
+                <model>Набор Блеск и сияние волос</model>
+                <modified_time>1548918791</modified_time>
+                <name>Набор Блеск и сияние волос</name>
+                <oldprice>3280</oldprice>
+                <param name="Условия хранения">None</param>
+                <param name="Область применения">Волосы</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/df0/moisture_hair_set.jpg</picture>
+                <price>2 788 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fnabor-blesk-i-siyanie-volos%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="1031" id="1031">
+                <adult>false</adult>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Все для подготовки твоего тела к теплому сезону</description>
+                <model>Очищающая программа для тела Body Detox Box</model>
+                <modified_time>1548934503</modified_time>
+                <name>Очищающая программа для тела Body Detox Box</name>
+                <oldprice>3970</oldprice>
+                <param name="Область применения">Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/ad8/body_detox_box_.jpg</picture>
+                <price>3 375 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fochishchayushchaya-programma-dlya-litsa-body-detox-box-%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="1025" id="1025">
+                <adult>false</adult>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Очень мужской набор № 2</description>
+                <model>Мужской подарочный набор №2 Scouring capsule</model>
+                <modified_time>1548934503</modified_time>
+                <name>Мужской подарочный набор №2 Scouring capsule</name>
+                <oldprice>3870</oldprice>
+                <param name="Область применения">Волосы, Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/395/scouring_capsule.jpg</picture>
+                <price>3 290 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fscouring-capsule%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="1024" id="1024">
+                <adult>false</adult>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Очень мужской набор №1</description>
+                <model>Мужской подарочный набор №1 L'Homme Primordial</model>
+                <modified_time>1548934503</modified_time>
+                <name>Мужской подарочный набор №1 L'Homme Primordial</name>
+                <oldprice>3970</oldprice>
+                <param name="Область применения">Волосы, Лицо, Руки, Тело</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/b62/l_homme_primordial_copy.jpg</picture>
+                <price>3 375 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fmuzhskoy-podarochnyy-nabor-1-l-homme-primordial%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+            <offer available="true" bid="2175" id="2175">
+                <adult>false</adult>
+                <barcode>CS/H/002</barcode>
+                <categoryId>3</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Давай сделаем твои локоны густыми и шелковистыми! Им просто не хватало шампуня и
+                    кондиционера с драгоценными маслами, которые бы питали каждый волос. Только полезные витамины и
+                    безопасное очищение — никаких сульфатов и парабенов.
+                </description>
+                <model>Питание волос</model>
+                <modified_time>1548934503</modified_time>
+                <name>Питание волос</name>
+                <oldprice>2780</oldprice>
+                <param name="Условия хранения">None</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/7b0/ukreplenie_volos.jpg</picture>
+                <price>2 363 руб.</price>
+                <store>true</store>
+                <typePrefix>Уход за волосами</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Fvolosy%2Fukreplenie-volos%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>3</vendorCode>
+            </offer>
+            <offer available="true" bid="2699" id="2699">
+                <adult>false</adult>
+                <barcode>CS/FBH/026</barcode>
+                <categoryId>7</categoryId>
+                <currencyId>RUR</currencyId>
+                <delivery>true</delivery>
+                <description>Энергия очищения для настоящего мужчины! Все средства в составе очищающей программы
+                    дополняют действие друг друга и сочетаются по аромату.
+                </description>
+                <model>Комплекс для мужчин</model>
+                <modified_time>1548934503</modified_time>
+                <name>Комплекс для мужчин</name>
+                <oldprice>2970</oldprice>
+                <param name="Условия хранения">None</param>
+                <pickup>false</pickup>
+                <picture>http://riche.me/upload/iblock/cde/male_set.jpg</picture>
+                <price>2 525 руб.</price>
+                <store>true</store>
+                <typePrefix>Эффективные комплексы</typePrefix>
+                <url>https://ad.admitad.com/g/tengrbqvp7162aae1f4e08ab07172f/?i=5&amp;ulp=http%3A%2F%2Friche.me%2Fcatalog%2Feffektivnye-kompleksy%2Fkompleks-dlya-muzhchin%2F</url>
+                <vendor>RICHE</vendor>
+                <vendorCode>7</vendorCode>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

@@ -1,0 +1,132 @@
+{
+  "results": [
+    {
+      "goto_cookie_lifetime": 30,
+      "rating": "3.0",
+      "exclusive": false,
+      "mobile_os_type": null,
+      "image": "http://cdn.admitad.com/campaign/images/2017/10/3/fffe92da99b37d46b356b84ea1a6b270.jpg",
+      "actions": [
+        {
+          "hold_time": 0,
+          "payment_size": "7%",
+          "type": "sale",
+          "name": "Оплаченный заказ на сайте",
+          "id": 14854
+        }
+      ],
+      "retag": false,
+      "currency": "RUB",
+      "activation_date": "2011-11-23T00:11:08",
+      "actions_limit": null,
+      "cr": 0.59,
+      "ecpc": 0.92,
+      "id": 153,
+      "allow_actions_all_countries": true,
+      "avg_hold_time": 54,
+      "connection_status": "active",
+      "gotolink": "https://pafutos.com/g/2559705e24162aae1f4e4b9351d46e/",
+      "mobile_device_type": null,
+      "avg_money_transfer_time": 54,
+      "site_url": "http://kupivip.ru/",
+      "regions": [
+        {
+          "region": "RU"
+        }
+      ],
+      "actions_detail": [
+        {
+          "hold_size": 0,
+          "tariffs": [
+            {
+              "action_id": 14854,
+              "rates": [
+                {
+                  "price_s": "0.00",
+                  "tariff_id": 19266,
+                  "country": null,
+                  "date_s": "2019-03-07",
+                  "is_percentage": true,
+                  "id": 186466,
+                  "size": "7.00"
+                }
+              ],
+              "id": 19266,
+              "name": "Тариф по умолчанию"
+            }
+          ],
+          "type": "sale",
+          "name": "Оплаченный заказ на сайте",
+          "id": 14854
+        }
+      ],
+      "landing_title": null,
+      "geotargeting": false,
+      "mobile_os": null,
+      "status": "active",
+      "coupon_iframe_denied": false,
+      "traffics": [
+        {
+          "enabled": true,
+          "name": "Cashback",
+          "id": 1
+        }
+      ],
+      "description": "description",
+      "cr_trend": "0.0000",
+      "raw_description": "raw description",
+      "modified_date": "2019-03-13T14:42:45",
+      "denynewwms": false,
+      "action_countries": [
+        "AD",
+        "AE"
+      ],
+      "moderation": false,
+      "action_testing_limit": null,
+      "max_hold_time": null,
+      "categories": [
+        {
+          "language": "ru",
+          "id": 62,
+          "parent": null,
+          "name": "Интернет-магазины"
+        },
+        {
+          "language": "ru",
+          "id": 64,
+          "parent": {
+            "language": "ru",
+            "id": 62,
+            "parent": null,
+            "name": "Интернет-магазины"
+          },
+          "name": "Одежда & Обувь"
+        }
+      ],
+      "products_csv_link": "http://products_csv_link",
+      "products_xml_link": "http://products_xml_link",
+      "name": "Kupivip RU",
+      "feeds_info": [
+        {
+          "advertiser_last_update": "2019-03-13 11:18:21.540000",
+          "admitad_last_update": "2019-03-13 09:03:23",
+          "csv_link": "http://products_xml_link",
+          "name": "Основной",
+          "xml_link": "http://xml_link"
+        }
+      ],
+      "actions_limit_24": null,
+      "landing_code": null,
+      "ecpc_trend": "-0.0700",
+      "epc_trend": "-7.0000",
+      "epc": 92,
+      "allow_deeplink": true,
+      "show_products_links": true
+    }
+  ],
+  "_meta": {
+    "count": 666,
+    "limit": 1,
+    "offset": 0
+  }
+}

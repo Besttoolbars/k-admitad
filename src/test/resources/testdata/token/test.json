@@ -1,0 +1,13 @@
+{
+  "username": "user",
+  "first_name": "first name",
+  "last_name": "last name",
+  "group": "webmaster",
+  "language": "ru",
+  "access_token": "token",
+  "expires_in": 604800,
+  "token_type": "bearer",
+  "scope": "coupons_for_website banners advcampaigns_for_website websites public_data",
+  "id": 785539,
+  "refresh_token": "reftoken"
+}
