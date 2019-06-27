@@ -2,9 +2,9 @@ package net.besttoolbars.admitad
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import net.besttoolbars.admitad.response.adv.AdmitadAdvResponse
-import net.besttoolbars.admitad.response.coupon.AdmitadCouponResponse
-import net.besttoolbars.admitad.response.token.OAuth2Token
+import net.besttoolbars.admitad.response.AdmitadAdvResponse
+import net.besttoolbars.admitad.response.AdmitadCouponResponse
+import net.besttoolbars.admitad.response.OAuth2Token
 import net.besttoolbars.affiliate.core.AffiliateConnector
 import net.besttoolbars.affiliate.core.HttpHandler
 import org.apache.http.message.BasicNameValuePair

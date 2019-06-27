@@ -1,8 +1,7 @@
-package net.besttoolbars.admitad.response.adv
+package net.besttoolbars.admitad.response
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.annotation.JsonProperty
-import net.besttoolbars.admitad.response.AdmitadMeta
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadAdv(

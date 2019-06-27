@@ -1,7 +1,6 @@
-package net.besttoolbars.admitad.response.coupon
+package net.besttoolbars.admitad.response
 
 import com.fasterxml.jackson.annotation.JsonProperty
-import net.besttoolbars.admitad.response.AdmitadMeta
 
 data class AdmitadCoupon(
     val id: Int,

@@ -1,4 +1,4 @@
-package net.besttoolbars.admitad.response.product
+package net.besttoolbars.admitad.response
 
 import java.time.Instant
 

@@ -1,6 +1,6 @@
 package net.besttoolbars.admitad.utils
 
-import net.besttoolbars.admitad.response.product.AdmitadProductCategory
+import net.besttoolbars.admitad.response.AdmitadProductCategory
 import java.util.*
 import java.util.stream.Stream
 import kotlin.streams.toList
