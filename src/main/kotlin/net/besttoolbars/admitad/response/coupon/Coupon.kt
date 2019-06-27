@@ -1,6 +1,7 @@
 package net.besttoolbars.admitad.response.coupon
 
 import com.fasterxml.jackson.annotation.JsonProperty
+import net.besttoolbars.admitad.response.AdmitadMeta
 
 data class AdmitadCoupon(
     val id: Int,
@@ -29,3 +30,18 @@ data class AdmitadCoupon(
     val gotoLink: String?
 )
 
+data class AdmitadCouponCampaign(
+    val id: Int,
+    val name: String,
+    @JsonProperty("site_url")
+    val siteUrl: String
+)
+
+data class AdmitadCouponCategory(val id: Int, val name: String?)
+data class AdmitadCouponResponse(
+    @JsonProperty("_meta")
+    val meta: AdmitadMeta?,
+    val results: List<AdmitadCoupon>
+)
+
+data class AdmitadCouponType(val id: Int, val name: String?)

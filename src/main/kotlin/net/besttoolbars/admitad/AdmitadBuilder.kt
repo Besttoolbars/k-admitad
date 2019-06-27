@@ -2,13 +2,11 @@ package net.besttoolbars.admitad
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
-import net.besttoolbars.admitad.http.AdmitadHttpClient
-import net.besttoolbars.admitad.http.AdmitadHttpHandler
+import net.besttoolbars.affiliate.core.HttpHandler
 import java.util.concurrent.TimeUnit
 
 class AdmitadBuilder() {
-    private var httpHandler: AdmitadHttpHandler =
-        AdmitadHttpClient()
+    private var httpHandler: HttpHandler = AdmitadHttpClient()
     private var timeout: Long = 2
     private var timeUnit: TimeUnit = TimeUnit.MINUTES
     private var mapper: ObjectMapper = jacksonObjectMapper()
@@ -18,7 +16,7 @@ class AdmitadBuilder() {
         this.timeUnit = timeUnit
     }
 
-    fun withHttpHandler(httpHandler: AdmitadHttpHandler) =
+    fun withHttpHandler(httpHandler: HttpHandler) =
         apply { this.httpHandler = httpHandler }
 
     fun withMapper(mapper: ObjectMapper) = apply { this.mapper = mapper }
