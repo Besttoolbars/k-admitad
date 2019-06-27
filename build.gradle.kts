@@ -12,7 +12,8 @@ group = "net.besttoolbars"
 version = "0.5.0"
 
 repositories {
-    mavenCentral()
+    jcenter()
+    maven { url = uri("https://dl.bintray.com/besttoolbars/repo") }
 }
 
 
