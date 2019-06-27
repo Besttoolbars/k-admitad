@@ -1,4 +1,4 @@
-package net.besttoolbars.admitad.response.adv
+package net.besttoolbars.admitad.response
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.annotation.JsonProperty
@@ -76,4 +76,53 @@ data class AdmitadAdv(
     @JsonProperty("feeds_info")
     val feedsInfo: List<AdmitadAdvFeedInfo> = listOf(),
     val mobileOsType: String? = null
+)
+
+data class AdmitadAdvAction(
+    @JsonProperty("payment_size")
+    val paymentSize: String? = null,
+    val type: String? = null,
+    val name: String? = null,
+    val id: Int? = null,
+    @JsonProperty("hold_time")
+    val holdTime: Int? = null
+)
+
+data class AdmitadAdvCategory(
+    val id: Int? = null,
+    val language: String? = null,
+    val name: String? = null,
+    val parent: AdmitadAdvCategory? = null
+)
+
+data class AdmitadAdvFeedInfo(
+    val name: String? = null,
+
+    @JsonProperty("admitad_last_update")
+    val admitadLastUpdate: String? = null,
+
+    @JsonProperty("advertiser_last_update")
+    val advertiserLastUpdate: String? = null,
+
+    @JsonProperty("csv_link")
+    val csvLink: String? = null,
+
+    @JsonProperty("xml_link")
+    val xmlLink: String? = null
+)
+
+data class AdmitadAdvRegion(
+    val region: String? = null
+)
+
+data class AdmitadAdvResponse(
+    @JsonProperty("_meta")
+    val meta: AdmitadMeta?,
+    val results: List<AdmitadAdv> = listOf()
+)
+
+data class AdmitadAdvTraffic(
+    val enabled: Boolean? = null,
+    val name: String? = null,
+    val id: Int? = null
 )

@@ -1,7 +1,7 @@
 package net.besttoolbars.admitad
 
 import com.fasterxml.aalto.stax.InputFactoryImpl
-import net.besttoolbars.admitad.response.product.*
+import net.besttoolbars.admitad.response.*
 import org.apache.commons.io.FileUtils
 import java.io.File
 import java.net.URL

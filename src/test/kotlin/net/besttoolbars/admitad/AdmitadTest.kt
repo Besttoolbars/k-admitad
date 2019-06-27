@@ -1,9 +1,6 @@
 package net.besttoolbars.admitad
 
-import net.besttoolbars.admitad.response.AdmitadMeta
-import net.besttoolbars.admitad.response.adv.*
-import net.besttoolbars.admitad.response.coupon.*
-import net.besttoolbars.admitad.response.token.OAuth2Token
+import net.besttoolbars.admitad.response.*
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

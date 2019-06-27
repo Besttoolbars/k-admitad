@@ -1,6 +1,6 @@
-package net.besttoolbars.admitad.http
+package net.besttoolbars.admitad
 
-import net.besttoolbars.admitad.errors.BadAdmitadResponse
+import net.besttoolbars.affiliate.core.HttpHandler
 import java.io.InputStream
 import java.net.http.HttpClient
 import java.net.http.HttpRequest
@@ -9,7 +9,7 @@ import java.util.concurrent.CompletableFuture
 
 class AdmitadHttpClient @JvmOverloads constructor(
     private val client: HttpClient = HttpClient.newHttpClient()
-) : AdmitadHttpHandler {
+) : HttpHandler {
     override fun executeRequest(request: HttpRequest): CompletableFuture<InputStream> {
         return client.sendAsync(request, HttpResponse.BodyHandlers.ofInputStream())
             .thenApply {

@@ -1,6 +1,6 @@
 package net.besttoolbars.admitad
 
-import net.besttoolbars.admitad.response.product.*
+import net.besttoolbars.admitad.response.*
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 import java.net.URL

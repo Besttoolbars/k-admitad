@@ -1,3 +1,3 @@
-package net.besttoolbars.admitad.errors
+package net.besttoolbars.admitad
 
 class BadAdmitadResponse(msg: String) : RuntimeException(msg)

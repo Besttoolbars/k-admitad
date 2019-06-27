@@ -1,4 +1,4 @@
-package net.besttoolbars.admitad.response.token
+package net.besttoolbars.admitad.response
 
 import com.fasterxml.jackson.annotation.JsonProperty
 
