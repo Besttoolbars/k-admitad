@@ -1,7 +1,9 @@
 package net.besttoolbars.admitad.response
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.annotation.JsonProperty
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class OAuth2Token(
     val username: String? = null,
     @JsonProperty("first_name")

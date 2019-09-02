@@ -1,5 +1,8 @@
 package net.besttoolbars.admitad.response
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadMeta(
     val count: Int? = 0,
     val limit: Int? = 0,

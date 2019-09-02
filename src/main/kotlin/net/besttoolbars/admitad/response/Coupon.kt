@@ -1,7 +1,9 @@
 package net.besttoolbars.admitad.response
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import com.fasterxml.jackson.annotation.JsonProperty
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadCoupon(
     val id: Int,
     val name: String,
@@ -29,6 +31,7 @@ data class AdmitadCoupon(
     val gotoLink: String?
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadCouponCampaign(
     val id: Int,
     val name: String,
@@ -36,11 +39,15 @@ data class AdmitadCouponCampaign(
     val siteUrl: String
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadCouponCategory(val id: Int, val name: String?)
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadCouponResponse(
     @JsonProperty("_meta")
     val meta: AdmitadMeta?,
     val results: List<AdmitadCoupon>
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadCouponType(val id: Int, val name: String?)
