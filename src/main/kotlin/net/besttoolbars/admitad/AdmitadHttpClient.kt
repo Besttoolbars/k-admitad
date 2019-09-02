@@ -1,5 +1,6 @@
 package net.besttoolbars.admitad
 
+import mu.KotlinLogging
 import net.besttoolbars.affiliate.core.HttpHandler
 import java.io.InputStream
 import java.net.http.HttpClient
@@ -11,6 +12,8 @@ class AdmitadHttpClient @JvmOverloads constructor(
     private val client: HttpClient = HttpClient.newHttpClient()
 ) : HttpHandler {
     override fun executeRequest(request: HttpRequest): CompletableFuture<InputStream> {
+        logger.debug { "uri: ${request.uri()}" }
+        logger.debug { "headers: ${request.headers()}" }
         return client.sendAsync(request, HttpResponse.BodyHandlers.ofInputStream())
             .thenApply {
                 when {
@@ -19,5 +22,9 @@ class AdmitadHttpClient @JvmOverloads constructor(
                 }
             }
             .thenApply { it.body() }
+    }
+
+    companion object {
+        private val logger = KotlinLogging.logger {}
     }
 }

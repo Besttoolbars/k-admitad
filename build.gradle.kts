@@ -5,11 +5,11 @@ plugins {
     `maven-publish`
     id("com.jfrog.bintray") version "1.8.4"
     id("com.gradle.build-scan") version "2.3"
-    kotlin("jvm") version "1.3.40"
+    kotlin("jvm") version "1.3.50"
 }
 
 group = "net.besttoolbars"
-version = "0.5.0"
+version = "0.5.1"
 
 repositories {
     jcenter()
@@ -23,7 +23,7 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("com.fasterxml:aalto-xml:1.2.0")
     implementation("commons-io:commons-io:2.6")
-    api("net.besttoolbars:affiliate-connector-core:0.0.2")
+    api("net.besttoolbars:affiliate-connector-core:0.0.3")
 
     testImplementation("org.junit.jupiter:junit-jupiter-api:$junit")
     testImplementation("org.mockito:mockito-junit-jupiter:2.25.0")
