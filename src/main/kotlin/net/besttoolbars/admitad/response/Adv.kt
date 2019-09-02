@@ -78,6 +78,7 @@ data class AdmitadAdv(
     val mobileOsType: String? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadAdvAction(
     @JsonProperty("payment_size")
     val paymentSize: String? = null,
@@ -88,6 +89,7 @@ data class AdmitadAdvAction(
     val holdTime: Int? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadAdvCategory(
     val id: Int? = null,
     val language: String? = null,
@@ -95,6 +97,7 @@ data class AdmitadAdvCategory(
     val parent: AdmitadAdvCategory? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadAdvFeedInfo(
     val name: String? = null,
 
@@ -111,16 +114,19 @@ data class AdmitadAdvFeedInfo(
     val xmlLink: String? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadAdvRegion(
     val region: String? = null
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadAdvResponse(
     @JsonProperty("_meta")
     val meta: AdmitadMeta?,
     val results: List<AdmitadAdv> = listOf()
 )
 
+@JsonIgnoreProperties(ignoreUnknown = true)
 data class AdmitadAdvTraffic(
     val enabled: Boolean? = null,
     val name: String? = null,
