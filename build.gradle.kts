@@ -9,7 +9,7 @@ plugins {
 }
 
 group = "net.besttoolbars"
-version = "0.5.2"
+version = "0.5.3"
 
 repositories {
     jcenter()
@@ -23,7 +23,7 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("com.fasterxml:aalto-xml:1.2.0")
     implementation("commons-io:commons-io:2.6")
-    api("net.besttoolbars:affiliate-connector-core:0.0.3")
+    api("net.besttoolbars:affiliate-connector-core:0.0.4")
 
     testImplementation("org.junit.jupiter:junit-jupiter-api:$junit")
     testImplementation("org.mockito:mockito-junit-jupiter:2.25.0")
